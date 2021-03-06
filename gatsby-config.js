@@ -2,13 +2,15 @@ module.exports = {
   siteMetadata: {
     title: `Sunwarul's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sunwarul Islam`,
+      summary: `Full stack Software Developer and Open source advocate`,
     },
     description: `Programming and Software Engineering Tutorials`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://sunwarul.github.io/blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sunwarul`,
+      facebook: `sunwarul`,
+      github: `sunwarul`,
     },
   },
   plugins: [
